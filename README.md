@@ -53,4 +53,4 @@ This project is undertaken for the purpose of technical research and data scienc
 
 While the full source code for this ongoing R&D project is not publicly available at this time, a detailed case study outlining the methodology, key code snippets, and results can be found in the link below.
 
-**[➡️ View the noorAI Project Case Study (PDF)](https://github.com/zakariaemandouli/noorAI/blob/main/portfolio/noorAI_Case_Study.pdf)**
+**[➡️ View the noorAI Project Case Study (PDF)](https://github.com/zakariaemandouli/noorAI/blob/main/portfolio/noorAI%20Case%20Study.pdf)**
