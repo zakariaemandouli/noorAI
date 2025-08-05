@@ -48,3 +48,9 @@ Data Visualization: Plotly, Matplotlib, Seaborn
 The Python code for the full data processing pipeline and all analysis functions will be uploaded here as a series of Jupyter Notebooks (.ipynb). The final, processed datasets (in .parquet format) will also be made available for download.
 
 This project is undertaken for the purpose of technical research and data science exploration. The findings are based on mathematical and linguistic analysis of a specific dataset and are presented as part of an ongoing R&D initiative.
+
+## 5. Project Showcase & Portfolio
+
+While the full source code for this ongoing R&D project is not publicly available at this time, a detailed case study outlining the methodology, key code snippets, and results can be found in the link below.
+
+**[➡️ View the noorAI Project Case Study (PDF)](https://github.com/YourUsername/noorAI/blob/main/portfolio/noorAI_Case_Study.pdf)**
