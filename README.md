@@ -50,8 +50,6 @@ The process flows as follows:
     * This combined prompt is then fed to a Large Language Model (LLM).
     * The LLM uses the provided context to generate a coherent, accurate, and human-like answer, rather than hallucinating or relying solely on its pre-trained knowledge.
 
-![RAG Architecture Diagram](https://i.imgur.com/8y3f5gN.png)
-
 ---
 
 ## 3. Key Technologies & Libraries
